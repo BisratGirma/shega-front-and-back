@@ -1,0 +1,6 @@
+[submodule "shega-college-front"]
+	path = shega-college-front
+	url = git@github.com:BisratGirma/shega-college-front.git
+[submodule "shega-college-backend"]
+	path = shega-college-backend
+	url = git@github.com:BisratGirma/shega-college-backend.git
